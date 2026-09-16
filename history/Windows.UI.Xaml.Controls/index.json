@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.UI.Xaml.Controls.dll",
+  "latest": "840954857-8036AD938B1981120265E322C90672FB-1",
+  "builds": [
+    {
+      "key": "840954857-8036AD938B1981120265E322C90672FB-1",
+      "timestamp": "840954857",
+      "pdb_guid": "8036AD938B1981120265E322C90672FB",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/840954857-8036AD938B1981120265E322C90672FB-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

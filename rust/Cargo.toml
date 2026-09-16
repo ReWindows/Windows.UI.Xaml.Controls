@@ -1,0 +1,8 @@
+[package]
+name = "windows-ui-xaml-controls-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for Windows.UI.Xaml.Controls.dll. Windows only."
+license = "MIT"
+
+[dependencies]
